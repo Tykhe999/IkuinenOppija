@@ -19,3 +19,29 @@ img{
     margin:0 20px 40px 20px;
     padding:0;
 }
+
+<html>
+<head><title>Opasteet</title></head>
+<link rel="stylesheet" href="style.css">
+<body>
+<div class="header">
+  <h1>Tämä on Mutsibuutin harjoitus kotisivu.</h1>
+</div>
+    <div class="row">
+  <div class="col-3 menu">
+    <ul>
+      <li>The Flight</li>
+      <li>The City</li>
+      <li>The Island</li>
+      <li>The Food</li>
+    </ul>
+  </div>
+
+  
+<p>Tutustutaan rakenteisiin</p><p><a href="https://www.w3schools.com">Ohjeet</a></p>
+<img src = "mutsibuuttilogo1.png" alt="mutsibuutti"alt="mutsibuutti logi" style="width:128px;height:128px;">
+
+
+
+</body>
+</html>

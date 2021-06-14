@@ -65,10 +65,6 @@ html {
   background-color: #0099cc;
 }
 
-
-<div id="kuvateksti" style="display:none" >kuvassa on tekstiä</div>
-<button type ="button" onclick ="document.getElementById('kuvateksti').style.display='block'">moimoi</button>
-
 .penguin {
     /* change code below */
     --penguin-skin: black;
